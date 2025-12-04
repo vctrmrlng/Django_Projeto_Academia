@@ -2,7 +2,7 @@ Nomes dos Integrantes:
 Caio Correa, João Cabrera, Lucas Miranda, Marlon Rosa, Ruimar Silvano, Victor Merling
 
 Descrição do Projeto:
-Usando o modelo sugerido de Cursos e Alunos, e inpirados pelo nosso Projeto Integrador, no qual fizemos um site para a Academia Nova Corpore, escolher ampliar o conceito e incluir novas Classes de objetos no sistema. 
+Inspirados pelo nosso Projeto Integrador, no qual desenvolvemos um site para a Academia Nova Corpore, e utilizando o modelo sugerido de Cursos e Alunos, decidimos ampliar o conceito original do projeto e incluir novas classes de objetos no sistema.
 No Projeto Integrador, usando Javascript, criamos um formulário capaz de cadastrar um Aluno, mas, para atender os requisitos deste projeto aumentamos o numero de Classes para cinco. Dessa forma, o sistema passa a contar com as cinco classes finais: Aluno, Professor, Aula, Sala e Matricula.
 
 Models Criados:
