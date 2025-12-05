@@ -44,15 +44,9 @@ O projeto ainda é incompleto, mas para rodar é simples:
 ![Lista de Alunos](images/AlunosLista.png)
 
 ### 📚 Aulas
-<<<<<<< HEAD
 ![Adicionar Aulas](images/AulaAdd.png)
 
 ![Lista de Aulas](images/AulaLista.png)
-=======
-![Adicionar Aulas](images/AulasAdd.png)
-
-![Lista de Aulas](images/AulasLista.png)
->>>>>>> 648b370b1264eda7c4c5814c894c15a6e6c10f80
 
 ### 👨‍🏫 Professores
 ![Adicionar Professores](images/ProfessorAdd.png)
