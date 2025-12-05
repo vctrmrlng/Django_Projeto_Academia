@@ -18,11 +18,12 @@ Explicando os Modelos:
 - Sala tem somente nome. Foi criado para que pudessem ser selecionado o local de uma aula usando um menu dropdown  
 - Aula tem nome, professor (chave estrangeira que representa quem dá a aula) e sala (chave estrangeira que representa o local em que a aula ocorre)  
 - Matricula - Segundo o que aprendemos na aula de Banco de Dados, quando há uma relação Many-to-many entre duas tabelas, é necessario criar uma tabela relacional. Sendo assim, associa um aluno e a aula em que ele está matriculado, através de suas respectivas chaves estrangeiras  
+- Os cpf do Aluno e do Professor e o cref do Professor, todos têm exatamente 11 caracteres, então foi importado o o modulo django.core.validators, para que se pudesse usar a classe MinLengthValidator que permite exigir que a string tenha um tamnanho mínimo.
 
 Todos os modelos tem um método __str__ que retorna o nome da instancia, com exceção de Matricula que retorna o nome do aluno e o nome da aula. Ex: Marcelo - Alongamento  
 
 Tecnologias Criadas:  
-O projeto foi feito usando Django  
+O projeto foi feito usando Python, Django e SQLite 
 
 Instruções para rodar:  
 O projeto ainda é incompleto, mas para rodar é simples:  
