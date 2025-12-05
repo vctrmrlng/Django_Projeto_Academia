@@ -36,16 +36,25 @@ O projeto ainda é incompleto, mas para rodar é simples:
 5 - Clique no link que aparece ou abra seu browser e vá até o endereço http://127.0.0.1:8000/admin  
 6 - Use o login e senha root : root  
 
-## Print das Telas
+## 📸 Print das Telas
 
+### 🧑‍🎓 Alunos
 ![Adicionar Alunos](images/AlunosAdd.png)
 ![Lista de Alunos](images/AlunosLista.png)
+
+### 📚 Aulas
 ![Adicionar Aulas](images/AulasAdd.png)
 ![Lista de Aulas](images/AulasLista.png)
+
+### 👨‍🏫 Professores
 ![Adicionar Professores](images/ProfessorAdd.png)
 ![Lista de Professores](images/ProfessorLista.png)
+
+### 🏫 Salas
 ![Adicionar Salas](images/SalaAdd.png)
 ![Lista de Salas](images/SalaLista.png)
+
+### 📝 Matrículas
 ![Adicionar Matrículas](images/MatriculaAdd.png)
 ![Lista de Matrículas](images/MatriculaLista.png)
 
